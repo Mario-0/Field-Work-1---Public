@@ -15,4 +15,6 @@ Data set contains:
 - r script for mixed effect logistic regression model
 - matlab scripts for cadence calculation
 
+All code for the experience sampling system can be found here: https://github.com/daw1012345/bike_data_collection. 
+
 More information and raw data can be requested via m.r.boot@utwente.nl. 
